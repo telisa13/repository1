@@ -1,1 +1,10 @@
 D:\УЧЕБА\МАК ПО\k4\k4\bin\Debug\k4.exe.config
+D:\УЧЕБА\МАК ПО\REPOSITORYk4\k4\k4\bin\Debug\k4.exe.config
+D:\УЧЕБА\МАК ПО\REPOSITORYk4\k4\k4\bin\Debug\k4.exe
+D:\УЧЕБА\МАК ПО\REPOSITORYk4\k4\k4\bin\Debug\k4.pdb
+D:\УЧЕБА\МАК ПО\REPOSITORYk4\k4\k4\obj\Debug\k4.csprojResolveAssemblyReference.cache
+D:\УЧЕБА\МАК ПО\REPOSITORYk4\k4\k4\obj\Debug\k4.Form1.resources
+D:\УЧЕБА\МАК ПО\REPOSITORYk4\k4\k4\obj\Debug\k4.Properties.Resources.resources
+D:\УЧЕБА\МАК ПО\REPOSITORYk4\k4\k4\obj\Debug\k4.csproj.GenerateResource.Cache
+D:\УЧЕБА\МАК ПО\REPOSITORYk4\k4\k4\obj\Debug\k4.exe
+D:\УЧЕБА\МАК ПО\REPOSITORYk4\k4\k4\obj\Debug\k4.pdb
